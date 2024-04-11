@@ -1,0 +1,37 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yap.b2b.baj.dev",
+    "sha256_cert_fingerprints":
+    ["8F:6E:20:6F:2A:63:0A:1B:26:4A:A6:3F:81:11:B7:AB:B5:BE:E4:90:9D:B0:0F:95:80:0D:F6:CB:79:5D:EA:A1"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yap.b2b.baj.live",
+    "sha256_cert_fingerprints":
+    ["8F:6E:20:6F:2A:63:0A:1B:26:4A:A6:3F:81:11:B7:AB:B5:BE:E4:90:9D:B0:0F:95:80:0D:F6:CB:79:5D:EA:A1"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yap.b2b.baj.pre_prod",
+    "sha256_cert_fingerprints":
+    ["8F:6E:20:6F:2A:63:0A:1B:26:4A:A6:3F:81:11:B7:AB:B5:BE:E4:90:9D:B0:0F:95:80:0D:F6:CB:79:5D:EA:A1"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yap.b2b.baj.stg",
+    "sha256_cert_fingerprints":
+    ["8F:6E:20:6F:2A:63:0A:1B:26:4A:A6:3F:81:11:B7:AB:B5:BE:E4:90:9D:B0:0F:95:80:0D:F6:CB:79:5D:EA:A1"]
+  }
+}
+]
